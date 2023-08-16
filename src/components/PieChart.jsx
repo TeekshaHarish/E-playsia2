@@ -10,8 +10,8 @@ import {
 } from "recharts";
 
 const data = [
-  { name: "Won", value: 62 },
-  { name: "Lost", value: 21 },
+  { name: "Won", value: 68 },
+  { name: "Lost", value: 32 },
 ];
 
 const COLORS = ["#22c55e", "red"];
